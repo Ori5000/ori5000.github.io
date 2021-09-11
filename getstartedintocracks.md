@@ -1,4 +1,4 @@
-**Full Get Started Into Cracked Games / Software / Movies / etc. Guide**
+## **Full Get Started Into Cracked Games / Software / Movies / etc. Guide**
 
 Do you want to know how to where to download cracked games? what is the Warez scene? This is the guide for you! Ok, let's get started!
 
@@ -7,7 +7,7 @@ A beginners guide to video game piracy <https://pastebin.com/PVYyzuJ6>
 (Pirated Games) Common Questions (And Answers) Thread Part 1: <https://www.reddit.com/r/PiratedGames/comments/fvix6e/common_questions_and_answers_thread>
 Part 2: <https://www.reddit.com/r/PiratedGames/comments/igxebs/frequently_asked_questions_part_2>
 
-**Piracy Subreddits**
+## **Piracy Subreddits**
 <https://www.reddit.com/r/Piracy> (Read Wiki)
 <https://www.reddit.com/r/PiratedGames> (Read Megathread)
 <https://www.reddit.com/r/SoftwarePirates> (Read Megathread)
