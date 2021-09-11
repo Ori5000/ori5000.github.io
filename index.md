@@ -8,3 +8,7 @@
 ### [Activate Windows](activatewindows.md) - Full Windows 10/11 Activation For FREE! Guide
 ### [Wallpaper Engine](wallpaperengine.md) - Full Cracked Wallpaper Engine Installation Guide
 ### [Unlimited Google Drive](unlimitedgdrive.md) - Full Getting Free Unlimited Google Drive Storage Guide
+
+<meta property="og:title" content="Esoterica Avenue">
+<meta property="og:description" content="Esoterica Avenue's GitHub Repo">
+<meta property="og:image" content="https://cdn.discordapp.com/emojis/877212119764979752.png">
