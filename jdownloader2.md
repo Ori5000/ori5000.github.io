@@ -1,4 +1,4 @@
-**Full JDownloader 2 Installation & Debloating (Removing Built-in Ads) Guide**
+## **Full JDownloader 2 Installation & Debloating (Removing Built-in Ads) Guide**
 
 
 
@@ -6,13 +6,13 @@ This guide will teach you how to fully install and debloat JDownloader 2, A soft
 
 
 
-**Installation Part**
+## **Installation Part**
 
 You need to go https://jdownloader.org/jdownloader2 And click on the button of your operating system, the setup file button now should being downloaded, once done run it and follow installation instructions
 
 
 
-**Debloating Part**
+## **Debloating Part**
 
 **(1)** Once finished installing the software, open it and go to `Settings -> (⚠️) Advanced Settings`, In "Filters Settings", search for the following and disable all of them (by clicking on the check-mark button)
 
