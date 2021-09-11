@@ -26,7 +26,8 @@ Click on `Click Here to Install JDownloader` and login with the account you crea
 
 **(9)** Open the console in the colab page and paste this script:
 
-```function ConnectButton(){
+```
+function ConnectButton(){
 
     console.log("Connect pushed"); 
 
@@ -41,7 +42,7 @@ now you can close the console.
 
 **(10)** Come back to <https://my.jdownloader.org/> and click **__Add Links__**, paste your DDL Links there. And click Continue, now right click on the link and choose `Add to Downloads`, go to the Downloads section & wait until the download is completed.
 
-**(11)** Go back to the colab page and run the RcloneLab. after it will say "\✅ Operation has been successfully completed." go to your Google Drive and the Downloads folder you created recently & refresh it.
+**(11)** Go back to the colab page and run the RcloneLab. after it will say "✅ Operation has been successfully completed." go to your Google Drive and the Downloads folder you created recently & refresh it.
 
 
 
