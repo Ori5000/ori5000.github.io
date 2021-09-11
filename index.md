@@ -1,4 +1,4 @@
-ㅤ
+### Welcome to Esoterica Avenue - The place where everything is possible!
 ### [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - Our Discord Server
 ### [Get Started Into Cracks](getstartedintocracks.md) - Beginners Guides & Piracy Subreddits
 ### [Esoterica Avenue's Site List](sitelist.md) - Software & Games Megathread
