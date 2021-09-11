@@ -26,7 +26,7 @@ Click on `Click Here to Install JDownloader` and login with the account you crea
 
 **(9)** Open the console in the colab page and paste this script:
 
-function ConnectButton(){
+```function ConnectButton(){
 
     console.log("Connect pushed"); 
 
@@ -35,6 +35,7 @@ function ConnectButton(){
 }
 
 setInterval(ConnectButton,20000);
+```
 
 now you can close the console.
 
