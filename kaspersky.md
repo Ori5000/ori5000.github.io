@@ -38,6 +38,6 @@ For Kaspersky Anti-Virus: https://krakenfiles.com/view/0aDoC9oU2C/file.html
 
 
 
-Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software, https://nsaneforums.com.
+Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software, https://nsaneforums.com/topic/404034-kaspersky-20212022-medicine-discussion-knowledge-base-info.
 
 **If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, Ori#4448**
