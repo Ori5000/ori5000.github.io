@@ -4,3 +4,4 @@
 ### [Internet Download Manager](idm.md) - Full IDM Installation & Cracking Guide
 ### [JDownloader 2.0](jdownloader2.md) - Full JDownloader 2 Installation & Debloating (Removing Built-in Ads) Guide
 ### [Kaspersky](kaspersky.md) - Full Kaspersky Products (Internet Security, Anti-Virus, Total Security, etc) Installation & Cracking Guide
+### [Wallpaper Engine](wallpaperengine.md) - Full Cracked Wallpaper Engine Installation Guide
