@@ -1,4 +1,4 @@
-## **Full Windows 10 Activation For FREE! Guide**
+## **Full Windows 10/11 Activation For FREE! Guide**
 
 That guide will show you how to get rid of the "***Activate Windows***", "Go to settings to activate Windows." watermark, as well as getting access to some Windows features for paid users only. Ready? Let's start the process!
 
