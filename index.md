@@ -12,3 +12,4 @@
 <meta property="og:title" content="Esoterica Avenue">
 <meta property="og:description" content="Esoterica Avenue's GitHub Repo">
 <meta property="og:image" content="https://cdn.discordapp.com/emojis/877212119764979752.png">
+<meta property="og:color" content="#36C3FF">
