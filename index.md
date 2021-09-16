@@ -6,6 +6,7 @@
 ### [JDownloader 2.0](jdownloader2.md) - Full JDownloader 2 Installation & Debloating (Removing Built-in Ads) Guide
 ### [Direct Download to Google Drive](ddltogdrive.md) - Full DDL to Google Drive Guide
 ### [Kaspersky](kaspersky.md) - Full Kaspersky Products (Internet Security, Anti-Virus, Total Security, etc) Installation & Cracking Guide
+### [Microsoft Office 2019/365](microsoftoffice.md) - Full Microsoft Office 2019/365 Installation & Activation Using KMS Server Guide
 ### [Activate Windows](activatewindows.md) - Full Windows 10/11 Activation For FREE! Guide
 ### [Wallpaper Engine](wallpaperengine.md) - Full Cracked Wallpaper Engine Installation Guide
 ### [Unlimited Google Drive](unlimitedgdrive.md) - Full Getting Free Unlimited Google Drive Storage Guide
