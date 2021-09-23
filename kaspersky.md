@@ -24,7 +24,7 @@ This guide will show you how to fully install & crack Kaspersky products, curren
 
 For Kaspersky Internet Security: https://krakenfiles.com/view/Llh3Sxj3So/file.html
 
-For Kaspersky Total Security: https://krakenfiles.com/view/7fWMkAYYEN/file.html
+For Kaspersky Total Security: https://krakenfiles.com/view/fRIil4ogQ1/file.html
 
 For Kaspersky Anti-Virus: https://krakenfiles.com/view/0aDoC9oU2C/file.html
 
