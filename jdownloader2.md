@@ -32,7 +32,16 @@ Fifth and last value you gotta search for is "**Banner**".
 
 you should no longer see ads like "***RAPIDGATOR PREMIUM***" and more other annoying ones. Enjoy JDownloader now!
 
+## **JD2 Optimization Guide by REKULOUS**
 
+- Disable Speed Limits you have in JD2
+- When downloading minimize and make the window smaller
+- Disable Window Decoration in JD2 Settings
+- Debloat JD2 Ads
+- Disable SpeedMeter graph by right clicking it or going into Advanced Settings and unchecking it
+- Set JD2 logging to off [NOTE: If you need support or help with JD2 or want to find out an issue with it, don't go asking for help without log files]
+- Turning off your VPN can improve speed
+- Turning off addons you don't use or need can improve RAM and resource usage / performance
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software.
 
