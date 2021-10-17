@@ -16,9 +16,9 @@ This guide will teach you how to fully install and crack IDM (Internet Download 
 
 ## **Cracking Part**
 
-**(1)** Once finishing installing the software you need to download the software crack from here: <https://send.cm/alttnizlfdz4/Tonec.Inc.Internet.Download.Manager.v6.39.3.Incl.Keygen.and.Patch-BTCR.rar>
+**(1)** Once finishing installing the software you need to download the software crack from here: <https://krakenfiles.com/view/Kd9W7GFZJD/file.html>
 
-**(2)** After finishing downloading this file, extract the .rar & run `keygen.exe`, after finished, Exit IDM & copy `IDMan.exe` from IDM Root folder (`C:\Program Files\Internet Download Manager` for example) to the BTCR folder (`D:\Downloads\BTCR` for example), after that, run `patch.exe`, now drag IDMan.exe from BTCR folder to IDM Root folder (replace between the two .exe's).
+**(2)** After  finishing downloading this file, extract the .rar & run `.exe` file and click `Crack`.
 
 **(3)** to verify it's cracked open the software from start menu/desktop shortcut or etc and go to `Help -> About IDM`, you should see it saying "This product is licensed to:" and "Your serial number starts with:", if you see these, you cracked the software successfully
 
