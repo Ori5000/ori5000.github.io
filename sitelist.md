@@ -44,7 +44,7 @@ Le Fishe Repakcs (<https://discord.gg/AxfXAVvR26>)
 
 Rekulous Repacks (<https://discord.gg/srwRj2g2ER>) Founder of r/SoftwarePirates.
 
-0xN0name Repacks (<https://discord.gg/UpB33Btctm>)
+0xN0name Repacks
 
 Xatab Repacks (<https://b.otxataba.net>, <https://e12.xatab-repack.com>) Inactive, ;(
 
