@@ -60,7 +60,7 @@ ARTEMiS/LiGHT Repacks - (Can be found on cs.rin.ru) Inactive
 
 Steam Underground (<https://cs.rin.ru>) Best site to check whether a game is cracked, discuss pirated games, clean steam files & get Scene Crack-Onlys.
 
-GamesDrive (<https://gamesdrive.net> / <https://discord.gg/slavdoge>) Amazing site to download Scene Releases & Repacks, one of the best pirated-games discord communities in my opinion.
+GamesDrive (<https://gamesdrive.net> / <https://discord.gg/Ur79YNJ6MQ>) Amazing site to download Scene Releases & Repacks, one of the best pirated-games discord communities in my opinion.
 
 Torrminatorr (<https://forum.torrminatorr.com>) Another very good forum with Scene Releases & Repacks
 
