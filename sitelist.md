@@ -68,8 +68,6 @@ Crackhub (<https://crackhub.site>) Another very good site to get Scene Releases 
 
 GOG-Games (<https://gog-games.com>) Currently best site to get copies of games from GOG.com
 
-Steamunlocked (<https://steamunlocked.net>) Pre-cracked games.
-
 GameCopyWorld (<https://gamecopyworld.com/>) Nice site to get some game trainers & Cracks.
 
 Ovagames (<https://ovagames.com>) Good site to get Scene Releases
@@ -111,6 +109,8 @@ Seyter - repacks contain bitcoin miners.
 cracked-games.org - Malware Risk.
 
 crackingpatching - Malware Risk.
+
+Steamunlocked - Slow downloads, malicious link redirects & uploads stolen releases from other unsafe sites.
 
 The Pirate Bay - Malware Risk.
 
