@@ -41,7 +41,7 @@ Once you installed both of these tools, run the following command in the Termina
 ## **SPOTIFY**
 To download music from Spotify, you will need either a free account or a paid account (For better quality).
 
-To download music from Qobuz once you have a paid account, use one of these tools:
+To download music from Spotify once you have an account, use one of these tools:
 ZSpotify (<https://github.com/Cybernatus/zspotify>) CLI (Dead)
 ZSpotify in Google Colab (<https://github.com/Ori5000/zspotifycolab>) GUI (Recommended for uploading music to Google Drive)
 Zotify (<https://gitlab.com/team-zotify/zotify>) CLI (Continuation of ZSpotify), Recommended
