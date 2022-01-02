@@ -44,8 +44,6 @@ Le Fishe Repakcs (<https://discord.gg/AxfXAVvR26>)
 
 Rekulous Repacks (<https://discord.gg/srwRj2g2ER>) Founder of r/SoftwarePirates.
 
-0xN0name Repacks
-
 Xatab Repacks (<https://b.otxataba.net>, <https://e12.xatab-repack.com>) Inactive, ;(
 
 R.G. Mechanics Repacks (Can be found on trackers like tapochek.net & 1337x.to)
@@ -60,7 +58,7 @@ ARTEMiS/LiGHT Repacks - (Can be found on cs.rin.ru) Inactive
 
 Steam Underground (<https://cs.rin.ru>) Best site to check whether a game is cracked, discuss pirated games, clean steam files & get Scene Crack-Onlys.
 
-GamesDrive (<https://gamesdrive.net> / <https://discord.gg/Ur79YNJ6MQ>) Amazing site to download Scene Releases & Repacks, one of the best pirated-games discord communities in my opinion.
+GamesDrive (<https://gamesdrive.net> / <https://discord.gg/ktM2XcMBCa>) Amazing site to download Scene Releases & Repacks, one of the best pirated-games discord communities in my opinion.
 
 Torrminatorr (<https://forum.torrminatorr.com>) Another very good forum with Scene Releases & Repacks
 
