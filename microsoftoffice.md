@@ -6,8 +6,8 @@ That guide will teach you how to install & activate Office 2019/365 for complete
 **(2)** Once the `.img` file is completely downloaded, open it & run Setup.exe
 **(3)** After finished installing Setup.exe, go to <https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest> and download the `.7z` file.
 **(4)** Once the file is downloaded, extract the file to a new folder (Archive password is 1234) with software like 7-zip or WinRAR (7-zip is recommended).
-**(5)** Once extracting is done open the sub-folder All`-In-One-Version` and run the `.cmd` file (make sure Microsoft Office is closed), then click `4` then click `1` and the Activation will begin. You should wait a few seconds and the Activation will end!
-**(6)** Now run the `.cmd` file again but now click `4` then `2`, now wait for it to finish.
+**(5)** Once extracting is done open the sub-folder All`-In-One-Version` and run the `.cmd` file (make sure Microsoft Office is closed), then click `3` then click `2` and the Activation will begin. You should wait a few seconds and the Activation will end!
+**(6)** Now run the `.cmd` file again but now click `3` then `I`, now wait for it to finish.
 **(7)** Open Any Office software (Word, Excel, PowerPoint, Etc) and go to `File -> Account`, If Office says that your products are activated, Congratulations! You activated Office successfully!
 
 And that's all! Now all of your office software is activated, for free! Enjoy office!
