@@ -8,7 +8,7 @@ This guide will teach you how to fully install and crack IDM (Internet Download 
 
 ## **Installation Part**
 
-**(1)** The first step in this guide downloading the software, you need to go to https://internetdownloadmanager.com/download.html & click the cyan-blue text saying "**__Download Internet Download Manager Now.__**", download should start now.
+**(1)** The first step in this guide downloading the software, you need to go to https://internetdownloadmanager.com/download.html & click the green button saying "**__Download Internet Download Manager.__**", download should start now.
 
 **(2)** Once download ended run the .exe (should be called idman...exe) and follow installation instructions  
 
