@@ -2,8 +2,8 @@
 
 This guide will teach you how to fully install Wallpaper Engine, A software that helps you customize your desktop wallpaper with a click of a button, Let's start!
 
-**(1)** You need to go to <https://drive.google.com/file/d/1MbJLRIZaQorvLAAGFSoVJTfa4WiukYlC/view?usp=sharing> And **__Download__** the file, once finished downloading the .rar extract the file to the location you want to install Wallpaper Engine to (C:\Program Files\Wallpaper Engine for example) using software like 7-Zip or WinRAR.
-**(2)** Once finished downloading & extracting the file open the extracted .rar folder & run install.exe, after installation is done run launcher.exe, and that's it! You have Wallpaper Engine up and running! (you may want to make a Desktop Shortcut of launcher.exe to make it easier)
+**(1)** You need to go to <https://anonfiles.com/TdX361s2y9> And **__Download__** the file, once finished downloading the .zip extract the file to the location you want to install Wallpaper Engine to (C:\Program Files\Wallpaper Engine for example) using software like 7-Zip or WinRAR.
+**(2)** Once finished downloading & extracting the file open the extracted .zip folder & run installer.exe, after installation is done run launcher.exe, and that's it! You have Wallpaper Engine up and running! (you may want to make a Desktop Shortcut of launcher.exe to make it easier)
 
 Downloading wallpapers from Steam Workshop: <http://steamworkshop.download/>, <https://steamworkshopdownloader.io/>
 
