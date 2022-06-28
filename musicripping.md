@@ -2,7 +2,7 @@
 
 This guide is here to teach everyone how to download music from the most popular music platforms, this guide will be arranged by platforms.
 
-##**BANDCAMP**
+## **BANDCAMP**
 To download music from Bandcamp, you won't need an account, but you can download only upto 128kb/s files.
 
 To download music from Bandcamp, use one of these tools:
