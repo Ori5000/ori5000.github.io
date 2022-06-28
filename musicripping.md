@@ -2,15 +2,19 @@
 
 This guide is here to teach everyone how to download music from the most popular music platforms, this guide will be arranged by platforms.
 
+##**BANDCAMP**
+To download music from Bandcamp, you won't need an account, but you can download only upto 128kb/s files.
+
+To download music from Bandcamp, use one of these tools:
+bandcamp-dl (<https://github.com/iheanyi/bandcamp-dl>), Recommended
+bandcamp-dl in Google Colab (<https://github.com/Ori5000/bandcampcolab>) GUI (Recommended for uploading music to Google Drive)
+
 ## **DEEZER**
 To download music from Deezer, you will need either a free account or a paid account (For HiFi Music).
 
 Get your Deezer account ARL (You might need it):
 **1)** Login to your Deezer account in a chromium based browser
 **2)** Open console (Right click ➡️ Inspect ➡️ Console) & run this command: `console.log(document.cookie.split('arl=').pop().split(';')[0]);`
-
-If you want a Deezer paid account ARL for FREE, get it from here:
-<https://www.reddit.com/r/freedeezerarl>
 
 To download music from Deezer once you have an account, use one of these tools:
 Deemix (<https://deemix.app> / <https://www.reddit.com/r/deemix>) GUI
