@@ -59,7 +59,7 @@ Tidal-Media-Downloader-PRO (<https://github.com/yaronzz/Tidal-Media-Downloader-P
 Streamrip (<https://github.com/nathom/streamrip>) CLI, Recommended
 
 ## **EXTRAS**
-Slav Art Discord Server (<https://discord.gg/skTQB7YC3D>) (Downloads music just for you!)
+Slav Art Discord Server (<https://discord.gg/HwqNZqzNZg>) (Downloads music just for you!)
 
 Enjoy the music!
 
