@@ -12,7 +12,7 @@ That guide will show you how to import files from mega.nz for example, to your g
 
 **(3)** Once extracting is done open the CMD from the rclone directory (`C:\Downloads\rclone` for example). Type `rclone config` in the CMD.
 
-**(4)** After you typed `rclone config` type `n`, then it will ask you for a name, call it `Drive`, now type `16` and click enter, now press Enter twice, type `1`, then press Enter 4 times, a window will open, select the account you want to use his Google Drive, and click Ok, come back to the CMD and type `n`, then `y`. lastly click `q` to quit rclone. now type `rclone config file` and go to the directory of the rclone config file.
+**(4)** After you typed `rclone config` type `n`, then it will ask you for a name, call it `Drive`, now type `18` and click enter, now press Enter twice, type `1`, then press Enter 4 times, a window will open, select the account you want to use his Google Drive, and click Ok, come back to the CMD and type `n`, then `y`. lastly click `q` to quit rclone. now type `rclone config file` and go to the directory of the rclone config file.
 
 **(5)** Go to <https://my.jdownloader.org> and follow the register instructions.
 
