@@ -8,7 +8,7 @@ This guide will show you how to fully install & crack Kaspersky products, curren
 
 ## **Installation Part**
 
-**(1)** The first part in this guide, is installing the product, for this guide is choosing the product you want to install (I recommend Kaspersky Internet Security), go to https://kaspersky.com/downloads and choose click the **Try free** Button of the product you want (a red big button, you may need to scroll down to see it).
+**(1)** The first part in this guide, is installing the product, for this guide is choosing the product you want to install (I recommend Kaspersky Internet Security), go to https://www.kaspersky.com/downloads/antivirus-free-trial / https://www.kaspersky.com/downloads/internet-security-free-trial / https://www.kaspersky.com/downloads/total-security-free-trial and click **Download**.
 
 **(2)** Once the download of the .exe is done, run the .exe and follow it instructions.
 
