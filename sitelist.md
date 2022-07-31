@@ -10,7 +10,9 @@ Do you wonder... Who is the best repacker? Is X Site Unsafe? This is the guide f
 
 FitGirl Repacks (<https://fitgirl-repacks.site>) Very good & small Repacks, Good for people with slow internet speeds.
 
-Masquerade Repacks (<https://masquerade.site>) My go-to Repacker.
+Masquerade Repacks (<https://masquerade.site>) My go-to Repacker. (Joined KaOsKrew)
+
+KaOsKrew Repacks (https://kaoskrew.org)
 
 DODI Repacks (<https://dodi-repacks.site>) Weak & fast Repacks, Good for people with good internet speeds.
 
@@ -29,8 +31,6 @@ CPG Repacks (<https://cpgrepacks.site>) Focuses on Anime games.
 Darck Repacks (<https://darckrepacks.com>)
 
 Gnarly Repacks (<https://gnarly-repacks.site>) Focuses on emulator games.
-
-KaOsKrew Repacks (<https://kaoskrew.org>)
 
 Kapital Sin Repacks (<https://kapitalsin.com>)
 
