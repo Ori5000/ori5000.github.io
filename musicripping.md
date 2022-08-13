@@ -6,7 +6,9 @@ This guide is here to teach everyone how to download music from the most popular
 To download music from Bandcamp, you won't need an account, but you can download only upto 128kb/s files.
 
 To download music from Bandcamp, use one of these tools:
+
 bandcamp-dl (<https://github.com/iheanyi/bandcamp-dl>), Recommended
+
 bandcamp-dl in Google Colab (<https://github.com/Ori5000/bandcampcolab>) GUI (Recommended for uploading music to Google Drive)
 
 ## **DEEZER**
@@ -17,14 +19,18 @@ Get your Deezer account ARL (You might need it):
 **2)** Open console (Right click ➡️ Inspect ➡️ Console) & run this command: `console.log(document.cookie.split('arl=').pop().split(';')[0]);`
 
 To download music from Deezer once you have an account, use one of these tools:
+
 Deemix (<https://deemix.app> / <https://www.reddit.com/r/deemix>) GUI
+
 Streamrip (<https://github.com/nathom/streamrip>) CLI, Recommended
 
 ## **QOBUZ**
 To download music from Qobuz, you will need a paid account.
 
 To download music from Qobuz once you have a paid account, use one of these tools:
+
 Qo-DL Reborn (<https://github.com/badumbass/Qo-DL-Reborn>) CLI
+
 Streamrip (<https://github.com/nathom/streamrip>) CLI, Recommended
 
 ## **SOUNDCLOUD**
@@ -37,6 +43,7 @@ Get your Soundcloud account token (You will need it):
 To download music from Soundcloud once you have an account, install these tools:
 
 **1)** yt-dlp (<https://github.com/yt-dlp/yt-dlp>)
+
 **2)** FFmpeg (<https://FFmpeg.org> / <https://github.com/FFmpeg/FFmpeg>)
 
 Once you installed both of these tools, run the following command in the Terminal / CMD:
@@ -46,16 +53,24 @@ Once you installed both of these tools, run the following command in the Termina
 To download music from Spotify, you will need either a free account or a paid account (For better quality).
 
 To download music from Spotify once you have an account, use one of these tools:
+
+Soggfy (<https://github.com/Rafiuth/Soggfy>) CLI
+
 ZSpotify (<https://github.com/Cybernatus/zspotify>) CLI (Dead)
+
 ZSpotify in Google Colab (<https://github.com/Ori5000/zspotifycolab>) GUI (Recommended for uploading music to Google Drive)
+
 Zotify (<https://gitlab.com/team-zotify/zotify>) CLI (Continuation of ZSpotify), Recommended
 
 ## **TIDAL**
 To download music from Tidal, you will need a paid account.
 
 To download music from Tidal once you have a paid account, use one of these tools:
+
 Tidal-Media-Downloader (<https://github.com/yaronzz/Tidal-Media-Downloader>) CLI
+
 Tidal-Media-Downloader-PRO (<https://github.com/yaronzz/Tidal-Media-Downloader-PRO>) GUI
+
 Streamrip (<https://github.com/nathom/streamrip>) CLI, Recommended
 
 ## **EXTRAS**
