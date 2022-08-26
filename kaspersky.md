@@ -24,13 +24,13 @@ This guide will show you how to fully install & crack Kaspersky products, curren
 
 For Kaspersky Anti-Virus / Basic: https://krakenfiles.com/view/H1YqzCesFo/file.html
 
-For Kaspersky Internet Security / Standart: https://krakenfiles.com/view/444987a8c1/file.html
+For Kaspersky Internet Security / Standard: https://krakenfiles.com/view/444987a8c1/file.html
 
 For Kaspersky Total Security / Plus: https://krakenfiles.com/view/35820908f6/file.html
 
 **(3)** Go to Kaspersky `Settings -> General -> Untick The ✅ Of "Enable Self-Defense"`, Close & Exit Kaspersky in the system tray.
 
-**(3 for Basic/Standart/Plus)** In Kaspersky Basic / Standart / Plus the simplest way to disable Self-Defense is to boot the computer into safe-mode google that.
+**(3 for Basic/Standard/Plus)** In Kaspersky Basic / Standard / Plus the simplest way to disable Self-Defense is to boot the computer into safe-mode google that.
 
 **(4)** Extract & Run Kaspersky Tweak Assistant (Password: `Bambang`) as administrator (from above), Click LICENSE then IMPORT in the software and choose the .lic file you downloaded (from step 2).
 
