@@ -16,7 +16,7 @@ This guide will teach you how to fully install and crack IDM (Internet Download 
 
 ## **Cracking Part**
 
-**(1)** Once finishing installing the software you need to download the software crack from here: <https://anonfiles.com/X4Udlct8yf>
+**(1)** Once finishing installing the software you need to download the software crack from here: <https://krakenfiles.com/view/2sVoNGSIvi/file.html>
 
 **(2)** After  finishing downloading this file, extract the .rar & run `.exe` file and click `Crack`.
 
