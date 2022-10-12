@@ -54,13 +54,13 @@ To download music from Spotify, you will need either a free account or a paid ac
 
 To download music from Spotify once you have an account, use one of these tools:
 
+Zotify (<https://gitlab.com/team-zotify/zotify>) CLI (Continuation of ZSpotify), Recommended
+
 Soggfy (<https://github.com/Rafiuth/Soggfy>) CLI
 
 ZSpotify (<https://github.com/Cybernatus/zspotify>) CLI (Dead)
 
 ZSpotify in Google Colab (<https://github.com/Ori5000/zspotifycolab>) GUI (Recommended for uploading music to Google Drive)
-
-Zotify (<https://gitlab.com/team-zotify/zotify>) CLI (Continuation of ZSpotify), Recommended
 
 ## **TIDAL**
 To download music from Tidal, you will need a paid account.
