@@ -22,11 +22,11 @@ This guide will show you how to fully install & crack Kaspersky products, curren
 
 **(2)** Download one of these files, depends your product:
 
-For Kaspersky Anti-Virus / Basic: https://krakenfiles.com/view/H1YqzCesFo/file.html
+For Kaspersky Anti-Virus / Basic: https://krakenfiles.com/view/f8c8947d37/file.html
 
 For Kaspersky Internet Security / Standard: https://krakenfiles.com/view/444987a8c1/file.html
 
-For Kaspersky Total Security / Plus: https://krakenfiles.com/view/35820908f6/file.html
+For Kaspersky Total Security / Plus: https://krakenfiles.com/view/FAYuMKn2JB/file.html
 
 **(3)** Go to Kaspersky `Settings -> General -> Untick The ✅ Of "Enable Self-Defense"`, Close & Exit Kaspersky in the system tray.
 
