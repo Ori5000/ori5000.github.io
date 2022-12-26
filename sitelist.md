@@ -16,7 +16,7 @@ KaOsKrew Repacks (https://kaoskrew.org)
 
 DODI Repacks (<https://dodi-repacks.site>) Weak & fast Repacks, Good for people with good internet speeds.
 
-SPiKY Repacks (<https://discord.gg/RjCyRyYUUC>) Amazing Repacker.
+SPiKY Repacks (Find on GamesDrive, Torrminatorr, cs.rin.ru).
 
 ElAmigos Repacks (Official: <https://elamigos.site>, Unofficial: <https://elamigos-games.com>)
 
