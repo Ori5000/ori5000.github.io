@@ -38,7 +38,7 @@ Tiny Repacks (<https://tiny-repacks.win>)
 
 BlackBox Repacks (<http://blackboxrepack.com>)
 
-ScOOter Repacks (<https://scooter-repacks.site>)
+ScOOter Repacks (<https://scooter-repacks.site>) Inactive
 
 Le Fishe Repakcs (<https://discord.gg/AxfXAVvR26>)
 
