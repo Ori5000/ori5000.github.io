@@ -18,9 +18,6 @@ Get your Deezer account ARL (You might need it):
 **1)** Login to your Deezer account in a chromium based browser
 **2)** Open console (Right click ➡️ Inspect ➡️ Console) & run this command: `console.log(document.cookie.split('arl=').pop().split(';')[0]);`
 
-If you want a Deezer paid account ARL for FREE, get it from here:
-<https://www.reddit.com/r/freedeezerarl>
-
 To download music from Deezer once you have an account, use one of these tools:
 
 Deemix (<https://deemix.app> / <https://www.reddit.com/r/deemix>) GUI
