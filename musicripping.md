@@ -81,4 +81,4 @@ Slav Art Divolt Server (<https://slavart.divolt.xyz>) (Downloads music just for 
 Enjoy the music!
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software.
-**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, Ori#4448**
+**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, oreee.**
