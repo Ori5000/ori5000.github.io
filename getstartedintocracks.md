@@ -23,4 +23,4 @@ Part 2: <https://www.reddit.com/r/PiratedGames/comments/igxebs/frequently_asked_
 <https://www.reddit.com/r/Roms> (Read Megathread)
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software.
-**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, Ori#4448**
+**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, oreee.**
