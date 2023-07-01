@@ -52,4 +52,4 @@ And that's it! The file you added in JDownloader will be in the Google Drive!
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software.
 
-**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, Ori#4448**
+**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, oreee.**
