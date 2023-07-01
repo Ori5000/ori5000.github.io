@@ -30,4 +30,4 @@ This guide will teach you how to fully install and crack IDM (Internet Download 
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software, https://cs.rin.ru/forum/viewtopic.php?f=14&t=27045.
 
-**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, Ori#4448**
+**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, oreee.**
