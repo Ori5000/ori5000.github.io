@@ -11,4 +11,4 @@ To access it all you need to do is go to <https://drive.google.com/> `->` Shared
 *Note: Please do not keep there any kind of personal files because there's a small chance that the shared drive will be deleted, Using this shared drive at your own risk.
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software.
-**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, Ori#4448**
+**If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, oreee.**
