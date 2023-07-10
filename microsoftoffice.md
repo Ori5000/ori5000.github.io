@@ -16,6 +16,6 @@ And that's all! Now all of your office software is activated, for free! Enjoy of
 
 *If you face an error saying "`We're sorry, we can't continue because we weren't able to download a required file`" when using the online installer, open CMD as administrator and run `reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "CountryCode" /t REG_SZ /d "std::wstring|US" /f`, the error should be fixed the next time you'll run the installer.
 
-Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software,<https://massgrave.dev>
+Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software, <https://massgrave.dev>
 
 **If one of the links is dead, or the guide has outdated content feel free to kindly ping or DM me, oreee.**
