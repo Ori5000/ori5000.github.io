@@ -10,9 +10,9 @@ Do you wonder... Who is the best repacker? Is X Site Unsafe? This is the guide f
 
 FitGirl Repacks (<https://fitgirl-repacks.site>) Very good & small Repacks, Good for people with slow internet speeds.
 
-Masquerade Repacks (<https://masquerade.site>) My go-to Repacker. (Joined KaOsKrew)
+Masquerade Repacks (In KaOsKrew) My go-to Repacker. (Joined KaOsKrew)
 
-KaOsKrew Repacks (https://kaoskrew.org)
+KaOsKrew Repacks (<https://kaoskrew.org>)
 
 DODI Repacks (<https://dodi-repacks.site>) Weak & fast Repacks, Good for people with good internet speeds.
 
@@ -21,8 +21,6 @@ SPiKY Repacks (Find on GamesDrive, Torrminatorr, cs.rin.ru).
 ElAmigos Repacks (Official: <https://elamigos.site>, Unofficial: <https://elamigos-games.com>)
 
 M4ckD0ge Repacks (<https://m4ckd0ge-repacks.me>) Another very nice Repacker.
-
-MineRocker Repacks (<https://discord.gg/bqdUv5QsWN>) Great Repacker, staff of Esoterica Avenue as well.
 
 Chovka Repacks (<https://repack.info>)
 
@@ -40,8 +38,6 @@ BlackBox Repacks (<http://blackboxrepack.com>)
 
 ScOOter Repacks (<https://scooter-repacks.site>) Inactive
 
-Le Fishe Repakcs (<https://discord.gg/AxfXAVvR26>)
-
 Rekulous Repacks (<https://discord.gg/srwRj2g2ER>) Founder of r/SoftwarePirates.
 
 Xatab Repacks (<https://b.otxataba.net>, <https://e12.xatab-repack.com>) Inactive, ;(
@@ -58,7 +54,7 @@ ARTEMiS/LiGHT Repacks - (Can be found on cs.rin.ru) Inactive
 
 Steam Underground (<https://cs.rin.ru>) Best site to check whether a game is cracked, discuss pirated games, clean steam files & get Scene Crack-Onlys.
 
-GamesDrive (<https://gamesdrive.net> / <https://discord.gg/ktM2XcMBCa>) Amazing site to download Scene Releases & Repacks, one of the best pirated-games discord communities in my opinion.
+GamesDrive (<https://gamesdrive.net> / <https://discord.gg/M3j6vExJSA>) Amazing site to download Scene Releases & Repacks, one of the best pirated-games discord communities in my opinion.
 
 Torrminatorr (<https://forum.torrminatorr.com>) Another very good forum with Scene Releases & Repacks
 
