@@ -58,7 +58,8 @@ Europe Checklist: You may have to look up laws for any import fees or regulation
 * If Pandabuy does not let you pay for your replicas directly through Paypal, just top up your account balance and then pay through your balance.
 
 ## **Recommended Seller List**
-The two I recommend the most are:
+The 3 I recommend the most are:
+* [3MadMan](https://discord.gg/8bDbGXXbTg)
 * [Husky Reps](https://husky-reps.x.yupoo.com/categories/3858049)
 * [Dripper](https://dripper.x.yupoo.com/)
 they have almost everything, but if you couldn't find what you looked for check [r/FashionReps List](https://www.reddit.com/r/FashionReps/wiki/trusted) out!
