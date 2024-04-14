@@ -80,7 +80,7 @@ Slav Art Divolt Server (<https://slavart.divolt.xyz>) (Downloads music just for 
 
 DoubleDouble (<https://doubledouble.top>) (Same as above ↑)
 
-Firehawk52's Rentry (<https://rentry.org/firehawk52> (Has working Qobuz tokens and Deezer ARLs) 
+Firehawk52's Rentry (<https://rentry.org/firehawk52>) (Has working Qobuz tokens and Deezer ARLs) 
 
 Enjoy the music!
 
