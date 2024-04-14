@@ -78,6 +78,10 @@ Streamrip (<https://github.com/nathom/streamrip>) CLI, Recommended
 ## **EXTRAS**
 Slav Art Divolt Server (<https://slavart.divolt.xyz>) (Downloads music just for you!)
 
+DoubleDouble (<https://doubledouble.top>) (Same as above ↑)
+
+Firehawk52's Rentry (<https://rentry.org/firehawk52> (Has working Qobuz tokens and Deezer ARLs) 
+
 Enjoy the music!
 
 Credits: [Our Discord Server](https://discord.gg/enMG8bXUbn), it has more guides about piracy & cracked software.
