@@ -59,7 +59,7 @@ Europe Checklist: You may have to look up laws for any import fees or regulation
 
 ## **Recommended Seller List**
 The 3 I recommend the most are:
-* [3MadMan](https://discord.gg/8bDbGXXbTg)
+* [3MadMan](https://discord.gg/3pDBbTcGNG)
 * [Husky Reps](https://husky-reps.x.yupoo.com/categories/3858049)
 * [Dripper](https://dripper.x.yupoo.com/)
 
