@@ -2,7 +2,7 @@
 
 Do you want to know how to where to download cracked games? what is the Warez scene? This is the guide for you! Ok, let's get started!
 
-The Warez Scene: How it works <https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works>
+The Warez Scene: How it works <https://web.archive.org/web/20221129023739/https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/>
 A beginners guide to video game piracy <https://pastebin.com/PVYyzuJ6>
 (Pirated Games) Common Questions (And Answers) Thread Part 1: <https://www.reddit.com/r/PiratedGames/comments/fvix6e/common_questions_and_answers_thread>
 Part 2: <https://www.reddit.com/r/PiratedGames/comments/igxebs/frequently_asked_questions_part_2>
