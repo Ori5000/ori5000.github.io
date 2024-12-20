@@ -1,4 +1,4 @@
-remote_theme: pages-themes/primer@v0.2.0
+remote_theme: pages-themes/primer@latest
 plugins:
 - jekyll-remote-theme
 title: Esoteria Avenue
