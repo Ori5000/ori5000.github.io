@@ -1,5 +1,3 @@
-remote_theme: pages-themes/primer@latest
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-primer
 title: Esoteria Avenue
 description: Esoterica Avenue's github repo
